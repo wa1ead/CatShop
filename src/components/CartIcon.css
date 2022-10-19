@@ -1,0 +1,15 @@
+#cart-icon i {
+  font-size: 24px;
+  position: absolute;
+  top: 12px;
+  right: 25px;
+  color: #000;
+}
+
+#cart-icon span {
+  font-size: 15px;
+  position: absolute;
+  top: 2px;
+  right: 5px;
+  color: red;
+}

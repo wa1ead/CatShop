@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Viking",
+    "price": 1500,
+    "image": "/imgs/1.jpg",
+    "description": "Lorem ipsum"
+  },
+  {
+    "id": 2,
+    "name": "Jaguar",
+    "price": 1000,
+    "image": "/imgs/2.jpg",
+    "description": "Lorem ipsum"
+  },
+  {
+    "id": 3,
+    "name": "Dragon",
+    "price": 2000,
+    "image": "/imgs/3.jpg",
+    "description": "Lorem ipsum"
+  },
+  {
+    "id": 4,
+    "name": "Tiger",
+    "price": 1000,
+    "image": "/imgs/4.jpg",
+    "description": "Lorem ipsum"
+  }
+]
